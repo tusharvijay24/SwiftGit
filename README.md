@@ -1,4 +1,4 @@
-SwiftyGit
+**SwiftyGit**
 
 SwiftyGit is a mobile application built using Swift, MVVM architecture, and Core Data to search through GitHub repositories, view repository details, and explore repositories tagged to contributors. The app consists of two main screens: the Home screen and the Repo Details screen.
 
