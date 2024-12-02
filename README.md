@@ -4,12 +4,12 @@ SwiftyGit is a mobile application built using Swift, MVVM architecture, and Core
 
 # Features
 
-Home Screen
+1. Home Screen
 1) Search Bar: Allows users to search repositories using the GitHub API.
 2) List View: Displays search results using a card view with pagination (10 items per page).
 3) Offline Storage: Saves the first 15 items' data offline to view without network connectivity.
 
-# Repo Details Screen
+2. Repo Details Screen
 1) Repository Details: Displays detailed information about the selected repository, including:
 * Image
 * Name
